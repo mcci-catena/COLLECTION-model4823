@@ -18,7 +18,7 @@ readonly ARDUINO_FQBN="mcci:stm32:mcci_catena_4618"
 ARDUINO_OPTIONS="$(echo '
                     upload_method=DFU
                     xserial=usb
-                    sysclk=sysclk=hsi16m
+                    sysclk=hsi16m
                     boot=trusted
                     opt=osstd
                     lorawan_region=us915
