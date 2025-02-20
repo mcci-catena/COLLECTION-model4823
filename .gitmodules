@@ -28,3 +28,9 @@
 [submodule "extra/dfu-util"]
 	path = extra/dfu-util
 	url = git://git.code.sf.net/p/dfu-util/dfu-util
+[submodule "libraries/mcci_ltr_329als"]
+	path = libraries/mcci_ltr_329als
+	url = git@github.com:mcci-catena/mcci_ltr_329als.git
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
